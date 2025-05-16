@@ -15,6 +15,9 @@ Previous team members that contributed with code/docs/scripts/graphics:
 * [Joshua Ogunyinka](https://github.com/iamOgunyinka)
 * [David Campo](https://github.com/dncampo)
 
+This fork is developed by:
+* [Alexander perkins](https://github.com/Ghostboo124/)
+
 ## Translations
 
 The translation work of Aseprite is only possible thanks to the

@@ -1,13 +1,8 @@
-# Aseprite
-
-[![build](https://github.com/aseprite/aseprite/actions/workflows/build.yml/badge.svg)](https://github.com/aseprite/aseprite/actions/workflows/build.yml)
-[![Translation Status](https://hosted.weblate.org/widget/aseprite/aseprite/svg-badge.svg)](https://hosted.weblate.org/engage/aseprite/)
-[![Discourse Community](https://img.shields.io/badge/discourse-community-brightgreen.svg?style=flat)](https://community.aseprite.org/)
-[![Discord Server](https://discordapp.com/api/guilds/324979738533822464/embed.png)](https://discord.gg/Yb2CeX8)
+# Andseprite
 
 ## Introduction
 
-**Aseprite** is a program to create animated sprites. Its main features are:
+**Andesprite** is a program to create animated sprites. Its main features are:
 
 * Sprites are composed of [layers &amp; frames](https://www.aseprite.org/docs/timeline/) as separated concepts.
 * Support for [color profiles](https://www.aseprite.org/docs/color-profile/) and different [color modes](https://www.aseprite.org/docs/color-mode/): RGBA, Indexed (palettes up to 256 colors), Grayscale.
@@ -29,19 +24,19 @@
 ## Issues
 
 There is a list of
-[Known Issues](https://github.com/aseprite/aseprite/issues) (things
+[Known Issues](https://github.com/Ghostboo124/andseprite/issues) (things
 to be fixed or that aren't yet implemented).
 
 If you found a bug or have a new idea/feature for the program,
-[you can report them](https://github.com/aseprite/aseprite/issues/new).
+[you can report them](https://github.com/Ghostboo124/andseprite/issues/new).
 
 ## Support
 
-You can ask for help in:
+You can ask for help with the Aseprite part of the program in: 
 
 * [Aseprite Community](https://community.aseprite.org/)
 * [Aseprite Discord Server](https://discord.gg/Yb2CeX8)
-* Official support: [support@aseprite.org](mailto:support@aseprite.org)
+* Official support: [support@aseprite.org](mailto:support@aseprite.org) 
 * Social networks and community-driven places:
   [Twitter](https://twitter.com/aseprite/),
   [Facebook](https://facebook.com/aseprite/),
@@ -52,7 +47,7 @@ You can ask for help in:
 
 Aseprite was originally created by [David Capello](https://davidcapello.com/)
 and is now being developed and maintained by [Igara Studio](https://igara.com/)
-and contributors.
+and contributors. This fork is developed by [Ghostboo124](https://github.com/andseprite).
 
 Check the [AUTHORS](AUTHORS.md) file for details about the active team
 of developers working on Aseprite.
